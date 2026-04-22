@@ -46,5 +46,4 @@ cp -r research-ppt-review ~/.claude/skills/
 
 ## 后记
 
-**本Skill浓缩了Up CS读博以来，所有PPT修改经验**。
-个人经验仅供参考。
+**本Skill浓缩了本人整个读博生涯以来，所有PPT修改经验**。个人经验仅供参考。
